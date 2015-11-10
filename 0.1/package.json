@@ -1,0 +1,28 @@
+{
+  "name": "hackthecitysitesp16",
+  "version": "0.0.1",
+  "description": "Spring 16 site for Hack the City",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hack-The-City/HackTheCitySiteSP16.git"
+  },
+  "keywords": [
+    "website",
+    "hackathon"
+  ],
+  "author": "Dana Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hack-The-City/HackTheCitySiteSP16/issues"
+  },
+  "homepage": "https://github.com/Hack-The-City/HackTheCitySiteSP16#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "jquery": "^2.1.4"
+  }
+}
