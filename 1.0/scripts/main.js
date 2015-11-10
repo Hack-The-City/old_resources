@@ -1,0 +1,5 @@
+(function(){
+  initializeNavigation();
+  initializeSplash();
+  initializeFaq();
+})();
